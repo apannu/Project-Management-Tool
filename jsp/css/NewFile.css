@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+.maindivclass {
+    width: 300px;
+}
+
+li { 
+    float: left;
+    position: relative; 
+    list-style: none;
+}
+
+.img_container {
+    float: left;
+    width: 40px;
+    padding: 0px;
+}
+
+li label.labelclass {
+    cursor: pointer;
+    padding-left: 5px;
+    padding-right: 5px;
+    float: left;
+    width: 250px;
+}
